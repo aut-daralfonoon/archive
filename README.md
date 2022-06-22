@@ -1,11 +1,5 @@
 # Daralfonoon
 
-Amirkabir's Daralfonoon official Github repository.
-
-<p align="center">
-  <img src="logo.png" width="500" />
-</p>
-
 ## Archive
 Checout the previous workshops of Darolfnoon.
 
@@ -14,12 +8,3 @@ Checout the previous workshops of Darolfnoon.
 | Introduction to Git                           | [Aparat](https://aparat.com/v/RaK4i)                                                      | None   |
 | Web Services and Http server                  | [Aparat](https://www.aparat.com/v/fNur1)                                                  | None   |
 | Monitoring in Devops                          | [Aparat part 1](https://aparat.com/v/xaBIS) / [Aparat part 2](https://aparat.com/v/YDUyg) | None   |
-
-## Special thanks to
-- Amirhossein Najafizadeh (CF)
-- Sina Amini Nasab (CF)
-- Emad Ferdowsi
-- Mohammad Salehi
-- Sarvenaz Sarvghad
-
-Since Sep 2021
