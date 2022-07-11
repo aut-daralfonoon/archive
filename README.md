@@ -1,5 +1,3 @@
-# Daralfonoon
-
 ## Archive
 Checout the previous workshops of Darolfnoon.
 
